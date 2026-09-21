@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.coingabbar.com/">
-    <img src="https://www.coingabbar.com/favicon.ico" alt="CoinGabbar Logo" width="120" />
+    <img src="https://www.coingabbar.com/assets/twitter-card/gabbar-home.jpeg" alt="CoinGabbar Logo" width="120" />
   </a>
   <h1>CoinGabbar</h1>
   <p><strong>Crypto, Web3, Market Insights &amp; Blockchain Information</strong></p>
