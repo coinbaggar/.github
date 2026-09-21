@@ -1,14 +1,12 @@
 <div align="center">
   <a href="https://www.coingabbar.com/">
-    <img src="https://www.coingabbar.com/favicon.ico" alt="CoinGabbar Logo" width="120" />
+    <img src="https://www.coingabbar.com/assets/images/coingabbar.webp" alt="CoinGabbar Logo" width="180" />
   </a>
   <h1>CoinGabbar</h1>
   <p><strong>Crypto, Web3, Market Insights &amp; Blockchain Information</strong></p>
   <p>
-    <a href="https://www.coingabbar.com/">Official Website</a>
-    &nbsp;•&nbsp;
-    <a href="https://www.linkedin.com/company/coingabbar/">LinkedIn</a>
-    &nbsp;•&nbsp;
+    <a href="https://www.coingabbar.com/">Official Website</a> &nbsp;•&nbsp;
+    <a href="https://www.linkedin.com/company/coingabbar/">LinkedIn</a> &nbsp;•&nbsp;
     <a href="https://play.google.com/store/apps/details?id=com.coingabbar">Mobile App</a>
   </p>
 </div>
@@ -17,7 +15,7 @@
 
 <h2>About CoinGabbar</h2>
 <p><strong>CoinGabbar</strong> is a cryptocurrency and Web3 information platform providing crypto news, market insights, price analysis, blockchain research, token listings, airdrops, educational content, and digital-asset tools.</p>
-<p>The platform brings together cryptocurrency market information, research, news, educational resources, and digital tools for the digital-asset community.</p>
+<p>The platform brings together cryptocurrency market information, research, news, educational resources, and digital tools for the global digital-asset community.</p>
 
 <h2>What We Provide</h2>
 <table>
@@ -31,11 +29,10 @@
   <tr><td><strong>📅 Crypto Events</strong></td><td>Information about blockchain and cryptocurrency events.</td></tr>
   <tr><td><strong>🎓 Education</strong></td><td>Learning resources covering blockchain, Bitcoin, cryptocurrency, and Web3.</td></tr>
   <tr><td><strong>💼 Portfolio Tools</strong></td><td>Tools for monitoring digital assets, portfolios, and watchlists.</td></tr>
-  <tr><td><strong>📣 Web3 Services</strong></td><td>Marketing and promotional services for blockchain and cryptocurrency projects.</td></tr>
+  <tr><td><strong>📣 Web3 Services</strong></td><td>Marketing, content, PR, advertising, and promotional services for blockchain projects.</td></tr>
 </table>
 
 <h2>Platform &amp; Technology</h2>
-<p>CoinGabbar operates digital products and services focused on cryptocurrency and Web3, including:</p>
 <ul>
   <li>Web applications</li>
   <li>Mobile applications</li>
@@ -51,14 +48,6 @@
 
 <h2>Gabbar University</h2>
 <p><strong>Gabbar University</strong> is CoinGabbar's educational platform covering blockchain, cryptocurrency, Bitcoin, Web3, trading, and digital assets.</p>
-<ul>
-  <li>Blockchain fundamentals</li>
-  <li>Cryptocurrency</li>
-  <li>Bitcoin</li>
-  <li>Web3</li>
-  <li>Trading</li>
-  <li>Digital assets</li>
-</ul>
 
 <h2>Company Information</h2>
 <table>
@@ -74,24 +63,14 @@
 <h2>Our GitHub</h2>
 <p>This GitHub organization is used to build, maintain, and collaborate on software and technology projects related to CoinGabbar and the broader cryptocurrency and Web3 ecosystem.</p>
 <table>
-  <tr>
-    <th align="center">Frontend</th>
-    <th align="center">Backend</th>
-    <th align="center">Blockchain</th>
-    <th align="center">Data</th>
-  </tr>
-  <tr>
-    <td align="center">Web Apps<br />Mobile Apps<br />UI Systems</td>
-    <td align="center">APIs<br />Services<br />Developer Tools</td>
-    <td align="center">Integrations<br />Web3 Services<br />Digital Assets</td>
-    <td align="center">Market Data<br />Analytics<br />Research</td>
-  </tr>
+  <tr><th>Frontend</th><th>Backend</th><th>Blockchain</th><th>Data</th></tr>
+  <tr><td>Web Apps<br />Mobile Apps<br />UI Systems</td><td>APIs<br />Services<br />Developer Tools</td><td>Integrations<br />Web3 Services<br />Digital Assets</td><td>Market Data<br />Analytics<br />Research</td></tr>
 </table>
 
 <h2>Connect With CoinGabbar</h2>
-<p><a href="https://www.coingabbar.com/"><strong>🌐 Official Website</strong></a></p>
-<p><a href="https://www.linkedin.com/company/coingabbar/"><strong>💼 LinkedIn</strong></a></p>
-<p><a href="https://play.google.com/store/apps/details?id=com.coingabbar"><strong>📱 Mobile App</strong></a></p>
+<p><a href="https://www.coingabbar.com/">🌐 Official Website</a></p>
+<p><a href="https://www.linkedin.com/company/coingabbar/">💼 LinkedIn</a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.coingabbar">📱 Mobile App</a></p>
 
 <hr />
 <div align="center">
