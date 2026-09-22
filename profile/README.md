@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.coingabbar.com/">
-    <img src="./assets/coingabbar-logo.png" alt="CoinGabbar Logo">
+    <img src="https://www.coingabbar.com/assets/twitter-card/gabbar-home.jpeg" alt="CoinGabbar Logo">
   </a>
 </p>
 
