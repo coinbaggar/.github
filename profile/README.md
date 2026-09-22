@@ -1,210 +1,71 @@
-<div align="center">
-  <a href="https://www.coingabbar.com/">
-    <img
-      src="https://www.coingabbar.com/assets/twitter-card/gabbar-home.jpeg"
-      alt="CoinGabbar cryptocurrency and Web3 platform"
-      width="800"
-    />
-  </a>
+<h1>CoinGabbar ~ Crypto Information &amp; Research</h1>
 
-  <h1>CoinGabbar</h1>
+<p align="center"> <a href="https://www.coingabbar.com/"> <img src="https://www.coingabbar.com/favicon.ico" alt="CoinGabbar Logo"> </a> </p>
 
-  <p>
-    <strong>Crypto, Web3, Market Insights &amp; Blockchain Information</strong>
-  </p>
+<p> Welcome to <a href="https://www.coingabbar.com/"><code>CoinGabbar</code></a> </p>
 
-  <p>
-    <a href="https://www.coingabbar.com/">Official Website</a> •
-    <a href="https://www.linkedin.com/company/coingabbar/">LinkedIn</a> •
-    <a href="https://play.google.com/store/apps/details?id=com.coingabbar">Mobile App</a>
-  </p>
-</div>
+<p> CoinGabbar is a cryptocurrency information and research platform focused on news, market information, blockchain projects, token launches, educational content, and Web3 developments. Our platform brings together crypto news, analysis, listings, airdrops, events, and research to help users better understand the rapidly changing digital asset ecosystem. </p>
 
-<hr>
+<h2>Key Products &amp; Features</h2>
+
+<h3>📰 Crypto News &amp; Research</h3>
+
+<p> Our platform provides: </p>
+
+<ul> <li>Timely cryptocurrency and blockchain news</li> <li>Market updates and industry developments</li> <li>Research and analysis covering crypto assets and projects</li> <li>Educational articles and technical blogs</li> <li>Crypto content in multiple languages, including English and Hindi</li> </ul>
+
+<h3>📊 Crypto Market Information</h3>
+
+<p> CoinGabbar provides tools and information for exploring the cryptocurrency market, including: </p>
+
+<ul> <li>Live cryptocurrency information and price tracking</li> <li>Crypto asset research and market analysis</li> <li>Watchlist and portfolio management features</li> <li>Information covering thousands of crypto assets</li> <li>Market and token-related research resources</li> </ul>
+
+<h3>🚀 Token Launches &amp; Web3 Projects</h3>
+
+<p> CoinGabbar covers projects and opportunities across the Web3 ecosystem, including: </p>
+
+<ul> <li>ICO, IDO, and IEO information</li> <li>Crypto presales</li> <li>Token listings</li> <li>Crypto airdrops and giveaways</li> <li>Blockchain projects and Web3 launches</li> <li>Crypto events and conferences</li> </ul>
+
+<h3>📣 Crypto Marketing &amp; Community</h3>
+
+<p> CoinGabbar also provides services for blockchain and cryptocurrency projects, including: </p>
+
+<ul> <li>Crypto press releases</li> <li>Sponsored and guest content</li> <li>Advertising campaigns</li> <li>Social media campaigns</li> <li>Airdrop promotion</li> <li>Token launch and presale promotion</li> <li>Live AMA sessions and video content</li> </ul>
+
+<h2>Information &amp; Editorial Standards</h2>
+
+<p> CoinGabbar maintains editorial standards intended to provide clear, useful, and research-based information to the Web3 community. </p>
+
+<ul> <li>Independent editorial decision-making</li> <li>Source-based reporting and research</li> <li>Fact-checking for statistics and market information</li> <li>Clear financial and informational disclaimers</li> <li>Updates for time-sensitive information</li> <li>Corrections when published information is found to be inaccurate</li> </ul>
+
+<p> CoinGabbar is an information and media platform and does not provide personalized financial, legal, or investment advice. </p>
+
+<h2>Documentation</h2>
+
+<ul> <li> <a href="https://www.coingabbar.com/en/about-us">CoinGabbar</a> </li> <li> <a href="https://www.coingabbar.com/en/editorial-policy">Editorial Policy</a> </li> <li> <a href="https://www.coingabbar.com/en/coingabbar-frequently-asked-questions">FAQ</a> </li> <li> <a href="https://www.coingabbar.com/en/coingabbar-privacy-policy">Privacy Policy</a> </li> <li> <a href="https://www.coingabbar.com/en/coingabbar-term-of-use">Terms of Use</a> </li> </ul>
+
+<h2>Repositories</h2>
+
+<p> Our GitHub organization contains projects and development resources related to CoinGabbar's technology ecosystem. </p>
+
+<ul> <li>Web platform development</li> <li>Frontend and backend applications</li> <li>Blockchain and Web3 integrations</li> <li>Market data and cryptocurrency tools</li> <li>Internal development utilities</li> </ul>
+
+<h2>Community and Support</h2>
+
+<ul> <li> <a href="https://www.coingabbar.com/">Website</a> </li> <li> <a href="https://www.linkedin.com/company/coingabbar/">LinkedIn</a> </li> <li> <a href="https://linktr.ee/officialcoingabbar">Community &amp; Social Links</a> </li> </ul>
+
+<p> For questions, business inquiries, technical issues, or partnership opportunities, please visit our <a href="https://www.coingabbar.com/en/coingabbar-contact-us">Contact Us</a> page. </p>
+
+<h2>Contributing 🤝</h2>
+
+<p> We welcome contributions and collaboration across our open-source development projects. If you are interested in contributing to a specific repository, please review the contribution guidelines provided within that repository before submitting changes. </p>
 
 <h2>About CoinGabbar</h2>
 
-<p>
-  <strong>CoinGabbar</strong> is a cryptocurrency and Web3 information platform
-  providing crypto news, market insights, price analysis, blockchain research,
-  token listings, airdrops, educational content, and digital-asset tools.
-</p>
+<p> CoinGabbar was established in 2021 and operates in the cryptocurrency and Web3 information space. The platform covers cryptocurrency news, research, market information, token launches, airdrops, blockchain events, and educational resources for the broader crypto community. </p>
 
-<p>
-  The platform brings together cryptocurrency market information, research,
-  news, educational resources, and digital tools to help users discover and
-  understand the evolving blockchain and Web3 ecosystem.
-</p>
+<p> CoinGabbar's public company information identifies the business as a privately held Internet News company headquartered in Dubai, with its platform focused on cryptocurrency and Web3 information. </p>
 
-<h2>What We Provide</h2>
+<h2>Disclaimer 📄</h2>
 
-<table>
-  <tr>
-    <td><strong>📰 Crypto News</strong></td>
-    <td>Cryptocurrency and blockchain news in English and Hindi.</td>
-  </tr>
-  <tr>
-    <td><strong>📊 Market Data</strong></td>
-    <td>Cryptocurrency prices, market information, charts, and tracking.</td>
-  </tr>
-  <tr>
-    <td><strong>📈 Market Analysis</strong></td>
-    <td>Price analysis, technical insights, charts, and market research.</td>
-  </tr>
-  <tr>
-    <td><strong>🔎 Coin &amp; Token Research</strong></td>
-    <td>Information and research covering cryptocurrency assets and projects.</td>
-  </tr>
-  <tr>
-    <td><strong>🪙 Token Listings</strong></td>
-    <td>Information about cryptocurrency and token listings.</td>
-  </tr>
-  <tr>
-    <td><strong>🎁 Airdrops &amp; Giveaways</strong></td>
-    <td>Discovery of crypto airdrops, campaigns, and related opportunities.</td>
-  </tr>
-  <tr>
-    <td><strong>🚀 ICO / IDO / IEO</strong></td>
-    <td>Information about token launches and fundraising events.</td>
-  </tr>
-  <tr>
-    <td><strong>📅 Crypto Events</strong></td>
-    <td>Information about blockchain and cryptocurrency events.</td>
-  </tr>
-  <tr>
-    <td><strong>🎓 Education</strong></td>
-    <td>Learning resources covering blockchain, Bitcoin, cryptocurrency, and Web3.</td>
-  </tr>
-  <tr>
-    <td><strong>💼 Portfolio Tools</strong></td>
-    <td>Tools for monitoring digital assets, portfolios, and watchlists.</td>
-  </tr>
-  <tr>
-    <td><strong>📣 Web3 Services</strong></td>
-    <td>Marketing and promotional services for blockchain and cryptocurrency projects.</td>
-  </tr>
-</table>
-
-<h2>Platform &amp; Technology</h2>
-
-<p>
-  CoinGabbar operates digital products and services focused on cryptocurrency
-  and Web3, including:
-</p>
-
-<ul>
-  <li>Web applications</li>
-  <li>Mobile applications</li>
-  <li>Cryptocurrency data and tracking</li>
-  <li>Interactive market charts</li>
-  <li>Portfolio management</li>
-  <li>Watchlists</li>
-  <li>Exchange and blockchain integrations</li>
-  <li>Blockchain-related data services</li>
-  <li>Educational platforms</li>
-  <li>Interactive cryptocurrency tools and games</li>
-</ul>
-
-<p>
-  CoinGabbar publicly describes integrations across
-  <strong>25+ exchanges</strong> and <strong>50+ blockchains</strong>.
-</p>
-
-<h2>Gabbar University</h2>
-
-<p>
-  <strong>Gabbar University</strong> is CoinGabbar's educational platform
-  covering blockchain, cryptocurrency, Bitcoin, Web3, trading, and digital assets.
-</p>
-
-<ul>
-  <li>Blockchain fundamentals</li>
-  <li>Cryptocurrency</li>
-  <li>Bitcoin</li>
-  <li>Web3</li>
-  <li>Trading</li>
-  <li>Digital assets</li>
-</ul>
-
-<h2>Company Information</h2>
-
-<table>
-  <tr>
-    <td><strong>Company</strong></td>
-    <td>CoinGabbar</td>
-  </tr>
-  <tr>
-    <td><strong>Industry</strong></td>
-    <td>Cryptocurrency &amp; Web3</td>
-  </tr>
-  <tr>
-    <td><strong>Founded</strong></td>
-    <td>2021</td>
-  </tr>
-  <tr>
-    <td><strong>Headquarters</strong></td>
-    <td>Dubai, UAE</td>
-  </tr>
-  <tr>
-    <td><strong>Company Type</strong></td>
-    <td>Privately Held</td>
-  </tr>
-  <tr>
-    <td><strong>Owner</strong></td>
-    <td>DCG Tech FZCO, UAE</td>
-  </tr>
-  <tr>
-    <td><strong>Delivery Partner</strong></td>
-    <td>Gabbar MediaTech Pvt Ltd</td>
-  </tr>
-</table>
-
-<h2>Our GitHub</h2>
-
-<p>
-  This GitHub organization is used to build, maintain, and collaborate on
-  software and technology projects related to CoinGabbar and the broader
-  cryptocurrency and Web3 ecosystem.
-</p>
-
-<table>
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td align="center"><strong>Backend</strong></td>
-    <td align="center"><strong>Blockchain</strong></td>
-    <td align="center"><strong>Data</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Web Apps<br>Mobile Apps<br>UI Systems</td>
-    <td align="center">APIs<br>Services<br>Developer Tools</td>
-    <td align="center">Integrations<br>Web3 Services<br>Digital Assets</td>
-    <td align="center">Market Data<br>Analytics<br>Research</td>
-  </tr>
-</table>
-
-<h2>Connect With CoinGabbar</h2>
-
-<p>
-  <a href="https://www.coingabbar.com/">
-    <strong>🌐 Official Website</strong>
-  </a>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/company/coingabbar/">
-    <strong>💼 LinkedIn</strong>
-  </a>
-</p>
-
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.coingabbar">
-    <strong>📱 Mobile App</strong>
-  </a>
-</p>
-
-<hr>
-
-<div align="center">
-  <p><strong>CoinGabbar</strong></p>
-  <p>Crypto • Web3 • Blockchain • Market Insights • Digital Assets</p>
-</div>
+<p> CoinGabbar provides cryptocurrency and blockchain information for informational and educational purposes. Nothing published on the platform should be considered personalized financial, investment, or legal advice. Cryptocurrency markets are highly volatile and users should conduct their own research before making financial decisions. </p>
